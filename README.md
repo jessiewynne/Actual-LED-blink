@@ -1,4 +1,4 @@
-# SoS_1
+# SoS_Example
 
 A Particle project named SoS_1
 
